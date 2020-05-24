@@ -90,21 +90,21 @@ body {
   background-color: rgba(228, 230, 241, 0.3) !important;
 }
 
-.monaco-workbench .activitybar > .content .monaco-action-bar .action-item .action-label {
-  background-color: #616161 !important;
-}
+/* .monaco-workbench .activitybar > .content .monaco-action-bar .action-item .action-label { */
+  /* background-color: #616161 !important; */
+/* } */
 
-.monaco-workbench .activitybar > .content .monaco-action-bar .action-item:hover .action-label {
-  background-color:#000 !important;
-}
+/* .monaco-workbench .activitybar > .content .monaco-action-bar .action-item:hover .action-label { */
+  /* background-color:#000 !important; */
+/* } */
 
 .monaco-workbench .part.statusbar {
   color: #616161 !important;
 }
 
-.monaco-list .monaco-list-row.selected.focused {
+/* .monaco-list .monaco-list-row.selected.focused {
   color: #000 !important;
-}
+} */
 
 .editor-group-container>.tabs .tab {
   border: none !important;
